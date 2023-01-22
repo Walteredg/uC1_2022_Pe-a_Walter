@@ -4,12 +4,20 @@
 
 **Autor:** Walter Edgardo Peña Meza
 
-Tarjeta: Curiosity Nano PIC18f57q84
+**Tarjeta:** Curiosity Nano PIC18f57q84
 
-Entorno: MPLAB X IDE
+**Entorno:** MPLAB X IDE
 
-Lenguaje: AMS - C
+**Lenguaje:** AMS - C
 
-UNIVERSIDAD NACIONAL DE PIURA, PERÚ
+**Practicas:**
 
-Este repositorio almacenará los proyectos creados  durante el ciclo
+TE1 Libreria de Retardos: Desarrollo de una rutina de retardos desde 10us hasta los 250ms con un oscilador de 4MHz
+
+Práctica 1: corrimiento de Leds
+
+Práctica 2: Muestra Números del 0 - 9 y si se mantiene presionado el boton se muestran letras de la A - F
+
+**UNIVERSIDAD NACIONAL DE PIURA, PERÚ**
+
+
